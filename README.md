@@ -3,9 +3,6 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlyeGRmbzE4bzhwYmw4M2NmczB3NGxzbzg4dXc0M3cwc2hxYXlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-I’m Rajan Sharma, a passionate developer and innovator who loves building real-world tech solutions.  
-Here’s a little more about me:
-
 - 🎓 Final-year **B.Tech student** with strong interest in software development and cloud technologies   
 - 🛠️ Comfortable building **end-to-end applications** — frontend, backend, APIs, databases, and deployment  
 - 🚀 A problem solver who enjoys participating in **hackathons, startup programs, and innovation challenges**    
